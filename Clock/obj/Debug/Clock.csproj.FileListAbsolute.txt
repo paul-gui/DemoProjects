@@ -1,0 +1,10 @@
+D:\Projects\svn\DemoProjects\Clock\bin\Debug\Clock.exe.config
+D:\Projects\svn\DemoProjects\Clock\bin\Debug\Clock.exe
+D:\Projects\svn\DemoProjects\Clock\bin\Debug\Clock.pdb
+D:\Projects\svn\DemoProjects\Clock\obj\Debug\Clock.csproj.AssemblyReference.cache
+D:\Projects\svn\DemoProjects\Clock\obj\Debug\Clock.myform.resources
+D:\Projects\svn\DemoProjects\Clock\obj\Debug\Clock.Properties.Resources.resources
+D:\Projects\svn\DemoProjects\Clock\obj\Debug\Clock.csproj.GenerateResource.cache
+D:\Projects\svn\DemoProjects\Clock\obj\Debug\Clock.csproj.CoreCompileInputs.cache
+D:\Projects\svn\DemoProjects\Clock\obj\Debug\Clock.exe
+D:\Projects\svn\DemoProjects\Clock\obj\Debug\Clock.pdb

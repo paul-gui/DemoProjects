@@ -1,0 +1,13 @@
+D:\Projects\BasicCalculator\BasicCalculator\bin\Release\BasicCalculator.exe.config
+D:\Projects\BasicCalculator\BasicCalculator\bin\Release\BasicCalculator.exe
+D:\Projects\BasicCalculator\BasicCalculator\bin\Release\BasicCalculator.pdb
+D:\Projects\BasicCalculator\BasicCalculator\bin\Release\MyDLL.dll
+D:\Projects\BasicCalculator\BasicCalculator\bin\Release\MyDLL.pdb
+D:\Projects\BasicCalculator\BasicCalculator\obj\Release\BasicCalculator.csprojAssemblyReference.cache
+D:\Projects\BasicCalculator\BasicCalculator\obj\Release\BasicCalculator.MyFirstForm.resources
+D:\Projects\BasicCalculator\BasicCalculator\obj\Release\BasicCalculator.Properties.Resources.resources
+D:\Projects\BasicCalculator\BasicCalculator\obj\Release\BasicCalculator.csproj.GenerateResource.cache
+D:\Projects\BasicCalculator\BasicCalculator\obj\Release\BasicCalculator.csproj.CoreCompileInputs.cache
+D:\Projects\BasicCalculator\BasicCalculator\obj\Release\BasicCalculator.csproj.CopyComplete
+D:\Projects\BasicCalculator\BasicCalculator\obj\Release\BasicCalculator.exe
+D:\Projects\BasicCalculator\BasicCalculator\obj\Release\BasicCalculator.pdb

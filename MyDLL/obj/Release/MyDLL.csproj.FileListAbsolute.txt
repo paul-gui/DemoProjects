@@ -1,0 +1,6 @@
+D:\Projects\BasicCalculator\MyDLL\bin\Release\MyDLL.dll
+D:\Projects\BasicCalculator\MyDLL\bin\Release\MyDLL.pdb
+D:\Projects\BasicCalculator\MyDLL\obj\Release\MyDLL.csprojAssemblyReference.cache
+D:\Projects\BasicCalculator\MyDLL\obj\Release\MyDLL.csproj.CoreCompileInputs.cache
+D:\Projects\BasicCalculator\MyDLL\obj\Release\MyDLL.dll
+D:\Projects\BasicCalculator\MyDLL\obj\Release\MyDLL.pdb

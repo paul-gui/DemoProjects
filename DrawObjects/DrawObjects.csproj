@@ -1,0 +1,166 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{FD699702-1960-4DEB-BBAB-91FBED1537C7}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <RootNamespace>DrawObjects</RootNamespace>
+    <AssemblyName>DrawObjects</AssemblyName>
+    <TargetFrameworkVersion>v4.7.2</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
+    <Deterministic>true</Deterministic>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Net.Http" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Animation1Form.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Animation1Form.Designer.cs">
+      <DependentUpon>Animation1Form.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Classes\Collisions.cs" />
+    <Compile Include="Classes\FormType.cs" />
+    <Compile Include="Classes\MyBall.cs" />
+    <Compile Include="Classes\MyExceptions.cs" />
+    <Compile Include="Classes\MyLine.cs" />
+    <Compile Include="Classes\PointD.cs" />
+    <Compile Include="Classes\TextPosition.cs" />
+    <Compile Include="DrawTriangleForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="DrawTriangleForm.Designer.cs">
+      <DependentUpon>DrawTriangleForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="DrawTriangleWithCircleInsideForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="DrawTriangleWithCircleInsideForm.Designer.cs">
+      <DependentUpon>DrawTriangleWithCircleInsideForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="DrawTriangleWithCircleOutsideForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="DrawTriangleWithCircleOutsideForm.Designer.cs">
+      <DependentUpon>DrawTriangleWithCircleOutsideForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="IntersectionForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="IntersectionForm.Designer.cs">
+      <DependentUpon>IntersectionForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="MainForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="MainForm.Designer.cs">
+      <DependentUpon>MainForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Classes\MyDraw.cs" />
+    <Compile Include="Classes\MyMath.cs" />
+    <Compile Include="Classes\MyTransform.cs" />
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="TextPositionForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="TextPositionForm.Designer.cs">
+      <DependentUpon>TextPositionForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="TrigoForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="TrigoForm.Designer.cs">
+      <DependentUpon>TrigoForm.cs</DependentUpon>
+    </Compile>
+    <EmbeddedResource Include="Animation1Form.resx">
+      <DependentUpon>Animation1Form.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="DrawTriangleForm.resx">
+      <DependentUpon>DrawTriangleForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="DrawTriangleWithCircleInsideForm.resx">
+      <DependentUpon>DrawTriangleWithCircleInsideForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="DrawTriangleWithCircleOutsideForm.resx">
+      <DependentUpon>DrawTriangleWithCircleOutsideForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="IntersectionForm.resx">
+      <DependentUpon>IntersectionForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="MainForm.resx">
+      <DependentUpon>MainForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+      <DesignTime>True</DesignTime>
+    </Compile>
+    <EmbeddedResource Include="TextPositionForm.resx">
+      <DependentUpon>TextPositionForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="TrigoForm.resx">
+      <DependentUpon>TrigoForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="App.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\MyDLL\MyDLL.csproj">
+      <Project>{C8F3FF5C-6AAA-4F83-A0F8-95001C37216A}</Project>
+      <Name>MyDLL</Name>
+    </ProjectReference>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Schita2.png" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+</Project>

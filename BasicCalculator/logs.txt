@@ -1,0 +1,25 @@
+12.04.2021 13:34:44.2473, Eroare 101
+
+12.04.2021 13:36:21.3373, Eroare 101
+
+12.04.2021 13:39:55.721090
+Eroare 101
+
+12.04.2021 13:39:55.725091
+System.Exception: Exception of type 'System.Exception' was thrown.
+   at Basic_Calculator.MyFirstForm.PercentButton_Click(Object sender, EventArgs e) in C:\Users\Paul\source\repos\Basic Calculator\Basic Calculator\MyFirstForm.cs:line 45
+
+12.04.2021 13:42:24.321374
+Eroare 101
+
+12.04.2021 13:42:24.325374
+System.AccessViolationException: Attempted to read or write protected memory. This is often an indication that other memory is corrupt.
+   at Basic_Calculator.MyFirstForm.PercentButton_Click(Object sender, EventArgs e) in C:\Users\Paul\source\repos\Basic Calculator\Basic Calculator\MyFirstForm.cs:line 45
+
+12.04.2021 13:45:20.732493
+System.AccessViolationException: Attempted to read or write protected memory. This is often an indication that other memory is corrupt.
+   at Basic_Calculator.MyFirstForm.PercentButton_Click(Object sender, EventArgs e) in C:\Users\Paul\source\repos\Basic Calculator\Basic Calculator\MyFirstForm.cs:line 45
+
+12.04.2021 13:58:53.796568
+Attempted to read or write protected memory. This is often an indication that other memory is corrupt.
+

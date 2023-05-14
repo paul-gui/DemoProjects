@@ -1,0 +1,23 @@
+C:\Users\Paul\source\repos\Basic Calculator\MyDLL\bin\Debug\MyDLL.dll
+C:\Users\Paul\source\repos\Basic Calculator\MyDLL\bin\Debug\MyDLL.pdb
+C:\Users\Paul\source\repos\Basic Calculator\MyDLL\obj\Debug\MyDLL.csprojAssemblyReference.cache
+C:\Users\Paul\source\repos\Basic Calculator\MyDLL\obj\Debug\MyDLL.csproj.CoreCompileInputs.cache
+C:\Users\Paul\source\repos\Basic Calculator\MyDLL\obj\Debug\MyDLL.dll
+C:\Users\Paul\source\repos\Basic Calculator\MyDLL\obj\Debug\MyDLL.pdb
+D:\Projects\BasicCalculator\MyDLL\bin\Debug\MyDLL.dll
+D:\Projects\BasicCalculator\MyDLL\bin\Debug\MyDLL.pdb
+D:\Projects\BasicCalculator\MyDLL\obj\Debug\MyDLL.csproj.CoreCompileInputs.cache
+D:\Projects\BasicCalculator\MyDLL\obj\Debug\MyDLL.dll
+D:\Projects\BasicCalculator\MyDLL\obj\Debug\MyDLL.pdb
+D:\Projects\DemoProjects\MyDLL\bin\Debug\MyDLL.dll
+D:\Projects\DemoProjects\MyDLL\bin\Debug\MyDLL.pdb
+D:\Projects\DemoProjects\MyDLL\obj\Debug\MyDLL.csprojAssemblyReference.cache
+D:\Projects\DemoProjects\MyDLL\obj\Debug\MyDLL.csproj.CoreCompileInputs.cache
+D:\Projects\DemoProjects\MyDLL\obj\Debug\MyDLL.dll
+D:\Projects\DemoProjects\MyDLL\obj\Debug\MyDLL.pdb
+d:\Projects\svn\DemoProjects\MyDLL\bin\Debug\MyDLL.dll
+d:\Projects\svn\DemoProjects\MyDLL\bin\Debug\MyDLL.pdb
+d:\Projects\svn\DemoProjects\MyDLL\obj\Debug\MyDLL.csproj.CoreCompileInputs.cache
+d:\Projects\svn\DemoProjects\MyDLL\obj\Debug\MyDLL.dll
+d:\Projects\svn\DemoProjects\MyDLL\obj\Debug\MyDLL.pdb
+D:\Projects\svn\DemoProjects\MyDLL\obj\Debug\MyDLL.csproj.AssemblyReference.cache
